@@ -31,7 +31,7 @@ As informações poderam ser acessadas, de um dispositivo movel, através de um 
 
   - Instalar a IDE do Arduino
   
-
+ - dssdds
 
 ### 📋 Pré-requisitos
 

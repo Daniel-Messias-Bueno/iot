@@ -9,3 +9,26 @@ o Projeto consiste na utilização de um sensor de umidade no qual, estara reali
 As informações poderam ser acessadas um um dispositivo movel, atráves de um app, onde podera ser acionado a bomba d'água de forma remota.
 
 ---
+
+## 🚀 Hardwares Utilizados
+- 1 Mini Bomba de Diafragma 12VDC RS385
+- 1 Protoboard 830 Pontos MB-102 Solderless Breadboard
+- 1 Sensor de Umidade do Solo Modulo + Sonda Higrômetro
+- 1 Diodo Retificador 1N4007
+- 1 Resistor 1K (1/4W)
+- 1 Transistor NPN TIP122
+- 1  Placa ESP32 WiFi / Bluetooth DEVKit V1 30 Pinos
+- Magueiras de 1/4
+- Fonte de 12V
+- Fonte de 9V
+- vasilhas de plástico
+
+### ⚙️Requisitos do Projeto
+
+
+  -
+  -  Instalar a IDE do Arduino
+
+
+
+

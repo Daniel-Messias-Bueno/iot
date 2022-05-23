@@ -33,6 +33,7 @@ As informações poderam ser acessadas um um dispositivo movel, atráves de um a
 
 
 
+
 ### 🔧 Instalação
 
 **📋 Instruções para execução local**
@@ -46,5 +47,12 @@ As informações poderam ser acessadas um um dispositivo movel, atráves de um a
 
 
 ```
+### Funcionamento
 
-
+o sensor manda uma tensão, e essa tensão é transformada de valor analogico que vai de 0 a 4095, onde 4095 será 100% ,que será proporcional a umidade de 0 á 100%.
+O transistor, nada mais é como se fosse um relé eletrônico,a porta D34 que está ligada a conexão base do transistor, o mesmo ao receber um nível alto nessa porta, o coletor do transistor
+funcionara como um fio ligando o motor, e se colocarmos um nível baixo, o transistor funcionara como um contato aberto, ele separa as conexões dos fios, e o motor para de funcionar.
+O papel do Diodo, ele deve ser utilizado no projeto, pois toda vez que ligamos o motor, ao ligar o motor.
+Ele ira dar um tranco de tensão, em um curto espaço de tempo, onde isso com o tempo, pode queimar o motor, e assim colocamos o Diodo para proteger o motor, e impedir que isso aconteça 
+https://github.com/Daniel-Messias-Bueno/iot/tree/master
+```

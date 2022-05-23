@@ -1,40 +1,41 @@
-# Projeto de Irrigação Inteligente - IOT
+# Projeto de Irrigação Inteligente
 
-Este projeto visa desenvolver um sistema de irrigação inteligente, utilizando os conceitos de IOT.
+Este Projeto visa desenvolver um sistema de irrigação inteligente, usando os conceitos de IOT
+
+
 
 ---
-## 📄  Funcionamento e uso do Projeto
+## 📄 Funcionamento do projeto
 
-o Projeto consiste na utilização de um sensor de umidade no qual, estara realizando a leitura do solo, onde ao constatar que o solo necessita de irrigação, acionara de forma automatica a irrigação, até que chegue a umidade adequada.
-As informações poderam ser acessadas um um dispositivo movel, atráves de um app, onde podera ser acionado a bomba d'água de forma remota.
+O projeto consiste na utilização de um sensor de umidade, no qual, estara realizando a leitura do solo, onde ao constatar que o solo necessita de irrigação, ira acionar a bomba d'água de forma automática, até que o solo chegue a umidade adequada.
+As informações poderam ser acessadas, de um dispositivo movel, através de um app, onde podera ligar de desligar a bomba d"água de forma remota.
 
 ---
 
-## 🚀 Começando
+## 🚀 Hardwares Utilizados
+- 1 Mini Bomba de Diafragma 12VDC RS385
+- 1 Protoboard 830 Pontos MB-102 Solderless Breadboard
+- 1 Sensor de Umidade do Solo Modulo + Sonda Higrômetro
+- 1 Diodo Retificador 1N4007
+- 1 Resistor 1K (1/4W)
+- 1 Transistor NPN TIP122
+- 1  Placa ESP32 WiFi / Bluetooth DEVKit V1 30 Pinos
+- Magueiras de 1/4
+- Fonte de 12V
+- Fonte de 9V
+- vasilhas de plástico
 
 
-
-### ⚙️Requisitos de Sistema
-
-- Mínimo
-  - OS: Windows Vista
-  - Processador: Intel Core 2 Duo 
-  - Memória Ram: 1GB
-  - Hd: 8GB
+### ⚙️Requisitos do Projeto
 
 
+  - Instalar a IDE do Arduino
+  
 
 
 ### 📋 Pré-requisitos
 
-**Requisitos para rodar localmente no computador do desenvolvedor**
 
-```
-- Host com serviços Apache 2.4
-- PHP 7.4
-- Mysql 5.7 (Sugerido software Wamp)
-```
----
 ### 🔧 Instalação
 
 **Instruções para execução local**
@@ -42,27 +43,27 @@ As informações poderam ser acessadas um um dispositivo movel, atráves de um a
 
 
 ```
-1. Baixar os arquivos do repositório do github
+
 ```
 
 ```
-2. Importar para uma subpasta "goodbrowsergames" dentro da pasta www do Wamp
+
 ```
 
 ```
-3. Criação do banco de dados mysql via qualquer SGBD (phpmyadmin, HeidiSQL... etc)
+
 ```
 
 ```
-4. Importação do arquivo sql/db.sql para o banco de dados criado
+
 ```
 
 ```
-5. Atualização dos caminhos no arquivo configuracoes.php, e informações de conexão no mysql.php
+
 ```
 
 ```
-6. acesso via navegador digitando localhost/goodbrowsergames
+
 ```
 
 ---
@@ -70,28 +71,12 @@ As informações poderam ser acessadas um um dispositivo movel, atráves de um a
 
 ## ⚙️ Features
 
-#### CRUDs
 
-- [x] Usuário
-- [x] Categoria
-- [x] Jogos
 
 
 ### 🔩 Recursos da aplicação
 
 
-#### Navegação do usuário
-
-- Busca de jogos pelo nome
-- Listagem de jogos da categoria
-- Relatório: Top 10 avaliações mais úteis
-
-#### Relatórios do admin
-
-- Relatório: 5 Jogos que receberam maior número de avaliações
-- Relatório: Membros que realizaram maior número de avaliações
-- Relatório: 5 jogos que têm a maior nota média de avaliação
-- Relatório: 3 categorias que receberam maior número de avaliações
 
 
 ---
@@ -100,17 +85,13 @@ As informações poderam ser acessadas um um dispositivo movel, atráves de um a
 
 
 
-<h4 align="center"> 
-	🚧  Em Desenvolvimento 🚀🚧
-</h4>
+
 
 ----
 
 ## 🛠️ Construído com
 
-* Php - A linguagem de programação utilizada
-* JavaScript - A linguagem de programação utilizada
-* CSS - A linguagem de programação utilizada
+
 
 ---
 
@@ -118,20 +99,10 @@ As informações poderam ser acessadas um um dispositivo movel, atráves de um a
 
 ## 📌 Versão
 
-Estamos utilizando a versão V2.0 
 
 ---
 
-## ✒️ Autores
-
-##### Integrantes do grupo Super Tech
-
-- Bruna Alana 
-- Daniel Messias
-- Myna Obara
-- Natalia Arnoldi
-- Priscyla Aiko
-
+## ✒️ 
 
 
 
@@ -140,3 +111,5 @@ Estamos utilizando a versão V2.0
 
 
 ---
+
+

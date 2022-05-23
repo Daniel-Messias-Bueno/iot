@@ -26,9 +26,25 @@ As informações poderam ser acessadas um um dispositivo movel, atráves de um a
 ### ⚙️Requisitos do Projeto
 
 
-  -
-  -  Instalar a IDE do Arduino
+  - Instalar a IDE do Arduino 
+  
 
 
+
+
+
+### 🔧 Instalação
+
+**📋 Instruções para execução local**
+
+- Após installar a IDE do Arduino no site
+- baixar o código do git, para compilar o mesmo
+- Realizar a configuração de Rede Wi-fi no código (nome da rede e senha )
+- Realizar o passo a passo, para montar o sistema, conforme o guia que consta nesse repositorio
+- Baixar o App, MQTT DASH na play Store
+
+
+
+```
 
 

@@ -38,7 +38,7 @@ As informações poderam ser acessadas um um dispositivo movel, atráves de um a
 
 **📋 Instruções para execução local**
 
-- Após installar a IDE do Arduino 
+- Após instalar a IDE do Arduino 
 - baixar o código do git, para compilar o mesmo
 - Realizar a configuração de Rede Wi-fi no código (nome da rede e senha )
 - Realizar o passo a passo, para montar o sistema, conforme o guia que consta nesse repositorio

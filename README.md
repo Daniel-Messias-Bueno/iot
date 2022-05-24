@@ -41,8 +41,13 @@ As informações poderam ser acessadas um um dispositivo movel, atráves de um a
 - Após instalar a IDE do Arduino 
 - baixar o código do git, para compilar o mesmo
 - Realizar a configuração de Rede Wi-fi no código (nome da rede e senha )
-- Realizar o passo a passo, para montar o sistema, conforme o guia que consta nesse repositorio
+- Realizar o passo a passo, para montar o sistema, conforme o guia que consta nesse repositório
 - Baixar o App, MQTT DASH na play Store
+
+- Após baixar o APP cadastrar o Broker
+ - cadastrar o nome do dispositivo no APP
+ - colocar o endereço deo broker, como exemplo o mosquitto ( test.mosquitto.org)
+ - e cadastrar o topico, que está cadastrado no código
 
 
 

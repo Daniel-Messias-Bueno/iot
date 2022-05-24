@@ -47,7 +47,8 @@ As informações poderam ser acessadas um um dispositivo movel, atráves de um a
 
 
 ```
-### Funcionamento
+
+### 🔧 Funcionamento
 
 o sensor manda uma tensão, e essa tensão é transformada de valor analogico que vai de 0 a 4095, onde 4095 será 100% ,que será proporcional a umidade de 0 á 100%.
 O transistor, nada mais é como se fosse um relé eletrônico,a porta D34 que está ligada a conexão base do transistor, o mesmo ao receber um nível alto nessa porta, o coletor do transistor

@@ -1,0 +1,5 @@
+O Mosquitto é um agente de mensagens de software livre (licenciado por EPL/EDL) que implementa o protocolo MQTT versões 5.0, 3.1.1 e 3.1. O Mosquitto é leve e adequado para uso em todos os dispositivos, desde computadores de placa única de baixa potência até servidores completos.
+
+O protocolo MQTT fornece um método leve de execução de mensagens usando um modelo de publicação/assinatura. Isso o torna adequado para mensagens da Internet das Coisas, como sensores de baixa potência ou dispositivos móveis, como telefones, computadores incorporados ou microcontroladores.
+
+O projeto Mosquitto também fornece uma biblioteca C para implementar clientes MQTT e os clientes MQTT de linha de comando mosquitto_pub e mosquitto_sub muito populares.

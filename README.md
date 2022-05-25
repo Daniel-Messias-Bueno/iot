@@ -18,7 +18,7 @@ As informações poderam ser acessadas em um dispositivo móvel, atráves de um 
 - 1 Resistor 1K (1/4W)
 - 1 Transistor NPN TIP122
 - 1  Placa ESP32 WiFi / Bluetooth DEVKit V1 30 Pinos
-- Magueiras de 1/4"
+- Mangueiras de 1/4"
 - Fonte de 12V
 - Fonte de 9V
 - vasilhas de plástico

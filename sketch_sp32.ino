@@ -17,8 +17,8 @@
 
 //Broker
 const char* urlMqtt = "test.mosquitto.org";
-const char* nomeDaRedeDaCasa = "*******";
-const char* senhaDaRedeDaCasa = "*******";
+const char* nomeDaRedeDaCasa = "*********";
+const char* senhaDaRedeDaCasa = "*********";
 
 //variável responsável por verificar se o sistema está em modo automático, ou seja, se o próprio ESP avalia a umidade e Automatico
 //a decisão de ligar ou não a bomba

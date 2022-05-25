@@ -10,7 +10,7 @@
 #define entradaHidrometro 34
 #define pinoBomba 4
 //valor de umidade mínimo para que o sistema ligue o motor ou não
-#define umidadeDeDecisao 50
+#define umidadeDeDecisao 65
 //Tamanho máximo em número de caracteres para uma mensagem MQTT
 #define tamanhoDoVetorMensagem 200
 

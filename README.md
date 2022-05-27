@@ -1,6 +1,7 @@
 # Projeto de Irrigação Inteligente - IOT
 
 Este projeto visa desenvolver um sistema de irrigação inteligente, utilizando os conceitos de IOT,nele serão implementados conceitos de Controle, Automação, IoT, programação em C++.
+Onde construí um  projeto irrigação automática IOT,  que nos possibilita não somente irrigar as plantas, mas receber as informações do estado da planta em tempo real, por exemplo: o status da umidade do solo. Tudo isso através da internet, utilizando o MQTT.
 
 ---
 ## 📄  Objetivo e uso do Projeto
